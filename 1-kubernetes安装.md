@@ -66,5 +66,5 @@ curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s http
 官方文档地址：https://kubernetes.io/docs/tasks/tools/install-kubectl/
 
 ## 结果
-使用minikube启动之后，如果启动成功了，可以使用minikube status查看minikube的状态。
+使用minikube start命令启动之后，如果启动成功了，可以使用minikube status查看minikube的状态。
 ![](./images/1-2.png)
